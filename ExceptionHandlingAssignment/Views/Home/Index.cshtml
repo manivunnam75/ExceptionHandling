@@ -1,0 +1,35 @@
+﻿@model ExceptionHandlingAssignment.Models.FileModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+   <link rel="stylesheet" href="/css/site.css" />
+   
+        <h1>Upload Excel File</h1>
+    <div class="upload-form">
+
+        <form  method="post" enctype="multipart/form-data">
+        <h5 style="color:red">@ViewBag.message</h5>
+                <label >Upload Excel File:</label>
+                <input asp-for=ExcelFile type="file">
+        <label for="isEditable">
+            <input asp-for=IsEditable type="checkbox" id="isEditable" name="isEditable"> Is Editable
+        </label>
+                <button type="submit">Upload</button>
+          
+        </form>
+        </div>
+
+        <div class="notes">
+            <h3>Notes or Uploading file</h3>
+            <ul>
+            <li>The uploaded file must be in Excel format (.xlsx or.xls); if you attempt to add a file in a different format, an exception will be displayed. Invalid format.</li>
+            <li> This application uses a temporary path to display the file not found exception, even if you provide the correct Excel format, xlsx, it will still throw an error message..</li>
+           <li>If you selected the "Is Editable" check box, but the uploaded file does not have read-write permission, it will display an exception as an unauthorised operation..</li>
+            <li>Make sure to validate and sanitize the uploaded file on the server-side.</li>
+            </ul>
+        </div>
+ 
+

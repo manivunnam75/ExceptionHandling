@@ -1,0 +1,32 @@
+﻿@model ExceptionHandlingAssignment.Models.FileModel
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="/css/API.css" />
+<div class="navigation">
+    <button onclick="location.href='/Home/Index'">FileProcessing</button>
+    <button onclick="location.href='/Home/Database'">Database</button>
+    <button onclick="location.href='/Home/RegistrationForm'">Input Validation</button>
+
+</div>
+<div class="container">
+    
+    <h5>@ViewBag.Message</h5>
+    <form method="post">
+    <h1>API Exception Handling</h1>
+
+    <div class="checkbox-container">
+        <label for="connectionTimeout">
+            <input asp-for="IsCheck" type="checkbox" id="connectionTimeout" name="connectionTimeout"> Connection Timeout
+        </label>
+        <span id="connectionTimeoutMessage"></span>
+    </div>
+
+    <button class="submit-button" type="submit">Submit</button>
+    </form>
+    <div class="notes">
+        <h4>Notes</h4>
+        To view the connection timeout, choose the checkbox ,<br />This connection time out problem occurs when trying to fetch data from an API but is unable to do it in time..
+    </div>
+</div>
+
