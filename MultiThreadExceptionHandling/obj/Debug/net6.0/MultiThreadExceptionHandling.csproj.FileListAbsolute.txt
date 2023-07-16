@@ -1,0 +1,15 @@
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\bin\Debug\net6.0\MultiThreadExceptionHandling.exe
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\bin\Debug\net6.0\MultiThreadExceptionHandling.deps.json
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\bin\Debug\net6.0\MultiThreadExceptionHandling.runtimeconfig.json
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\bin\Debug\net6.0\MultiThreadExceptionHandling.dll
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\bin\Debug\net6.0\MultiThreadExceptionHandling.pdb
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.AssemblyInfo.cs
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.dll
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\refint\MultiThreadExceptionHandling.dll
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.pdb
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\MultiThreadExceptionHandling.genruntimeconfig.cache
+C:\Users\Mani Vunnam\source\repos\MultiThreadExceptionHandling\MultiThreadExceptionHandling\obj\Debug\net6.0\ref\MultiThreadExceptionHandling.dll
